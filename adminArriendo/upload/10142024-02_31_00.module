@@ -1,0 +1,40 @@
+<?php
+
+/**
+ * @file
+ * Implementación del módulo Mi Módulo.
+ */
+
+/**
+ * Implements hook_install().
+ */
+function mi_modulo_install() {
+  // Definir el nombre del archivo
+  $nombre_archivo = 'hola.php';
+
+  // Contenido que deseas escribir en el archivo
+  $contenido = "<?php\n\necho '¡Hola, mundo!';\n";
+
+  // Crear el archivo y escribir el contenido en la ruta del módulo
+  $ruta_archivo = __DIR__ . '/' . $nombre_archivo;
+
+  // Comprobar si el archivo ya existe
+  if (!file_exists($ruta_archivo)) {
+    if (file_put_contents($ruta_archivo, $contenido) !== false) {
+      drupal_set_message(t("Archivo '$nombre_archivo' creado exitosamente en: @path", ['@path' => $ruta_archivo]));
+    } else {
+      drupal_set_message(t("Error al crear el archivo '$nombre_archivo'."), 'error');
+    }
+  } else {
+    drupal_set_message(t("El archivo '$nombre_archivo' ya existe."));
+  }
+}
+
+/**
+ * Implements hook_help().
+ */
+function mi_modulo_help($route_name, $route_parameters) {
+  if ($route_name === 'help.page.mi_modulo') {
+    drupal_set_message(t('Este es un módulo personalizado que hace cosas interesantes.'));
+  }
+}

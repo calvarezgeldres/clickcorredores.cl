@@ -1,0 +1,1 @@
+echo "<p>Hoy es " . date("l, d F Y") . "</p>";

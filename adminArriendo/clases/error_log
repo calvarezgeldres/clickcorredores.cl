@@ -1,0 +1,75 @@
+[25-Jan-2024 17:49:32 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:49:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:49:41 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:49:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:00 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:00 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:01 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:01 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:23 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:23 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:24 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:24 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:25 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:42 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:43 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:49 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:49 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3
+[25-Jan-2024 17:50:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/clases/class.generador.php on line 3

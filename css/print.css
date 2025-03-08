@@ -1,0 +1,6 @@
+.header {height:auto;padding-left:30px;}
+.left-content h1 img {max-height:70px;max-width:132px;}
+.right-content,.middle,.shadow-slide,.share,.cotizar,.f-menu,.powered,.paginador {display:none}
+.left-content,.contenido,.propiedades {width:100%; padding:5px;} 
+#content,.detalle {margin:0 auto; padding:0; width: 100%;}
+.tab_container{width:96%;}

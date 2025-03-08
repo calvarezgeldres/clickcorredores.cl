@@ -1,0 +1,24 @@
+	 #content .right-content1 {
+    float: left;
+    width:50%;
+    margin: 0 0 15px 0;
+    overflow: hidden;
+	}
+
+		#content .left-content1 {
+    float: left;
+    padding: 0;
+    width: 50%;
+    overflow: hidden;
+    margin: 0;
+	}
+
+	 #fancybox-wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    z-index: 1101;
+    outline: none;
+    display: block; top: 20px !important; 
+}

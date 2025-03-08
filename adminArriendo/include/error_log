@@ -1,0 +1,89 @@
+[20-Oct-2023 19:03:53 UTC] PHP Warning:  Undefined variable $link in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:03:53 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/clicrdyj/public_html/adminArriendo/include/enter.php:13
+Stack trace:
+#0 /home/clicrdyj/public_html/adminArriendo/include/enter.php(13): mysqli_query()
+#1 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:03:57 UTC] PHP Warning:  Undefined variable $link in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:03:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/clicrdyj/public_html/adminArriendo/include/enter.php:13
+Stack trace:
+#0 /home/clicrdyj/public_html/adminArriendo/include/enter.php(13): mysqli_query()
+#1 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:04:23 UTC] PHP Warning:  Undefined variable $link in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:04:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/clicrdyj/public_html/adminArriendo/include/enter.php:13
+Stack trace:
+#0 /home/clicrdyj/public_html/adminArriendo/include/enter.php(13): mysqli_query()
+#1 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:04:28 UTC] PHP Warning:  Undefined variable $link in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:04:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/clicrdyj/public_html/adminArriendo/include/enter.php:13
+Stack trace:
+#0 /home/clicrdyj/public_html/adminArriendo/include/enter.php(13): mysqli_query()
+#1 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:04:31 UTC] PHP Warning:  Undefined variable $link in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 24
+[20-Oct-2023 19:04:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/clicrdyj/public_html/adminArriendo/include/enter.php:24
+Stack trace:
+#0 /home/clicrdyj/public_html/adminArriendo/include/enter.php(24): mysqli_query()
+#1 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 24
+[20-Oct-2023 19:04:32 UTC] PHP Warning:  Undefined variable $link in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 24
+[20-Oct-2023 19:04:32 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/clicrdyj/public_html/adminArriendo/include/enter.php:24
+Stack trace:
+#0 /home/clicrdyj/public_html/adminArriendo/include/enter.php(24): mysqli_query()
+#1 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 24
+[20-Oct-2023 19:04:54 UTC] PHP Warning:  Undefined variable $link in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 12
+[20-Oct-2023 19:04:54 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/clicrdyj/public_html/adminArriendo/include/enter.php:12
+Stack trace:
+#0 /home/clicrdyj/public_html/adminArriendo/include/enter.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 12
+[20-Oct-2023 19:04:57 UTC] PHP Warning:  Undefined variable $link in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 23
+[20-Oct-2023 19:04:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/clicrdyj/public_html/adminArriendo/include/enter.php:23
+Stack trace:
+#0 /home/clicrdyj/public_html/adminArriendo/include/enter.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 23
+[20-Oct-2023 19:05:00 UTC] PHP Warning:  Undefined variable $link in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 23
+[20-Oct-2023 19:05:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/clicrdyj/public_html/adminArriendo/include/enter.php:23
+Stack trace:
+#0 /home/clicrdyj/public_html/adminArriendo/include/enter.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 23
+[20-Oct-2023 19:05:31 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:05:36 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 24
+[20-Oct-2023 19:06:01 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:06:07 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 24
+[20-Oct-2023 19:07:40 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:07:50 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:07:50 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 16
+[20-Oct-2023 19:07:54 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:07:54 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 16
+[20-Oct-2023 19:08:33 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:08:33 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 16
+[20-Oct-2023 19:08:39 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:08:39 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 16
+[20-Oct-2023 19:10:08 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 24
+[20-Oct-2023 19:10:08 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 27
+[20-Oct-2023 19:10:53 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 13
+[20-Oct-2023 19:10:57 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 24
+[20-Oct-2023 19:11:04 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 24
+[20-Oct-2023 19:11:04 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 27
+[20-Oct-2023 19:11:20 UTC] PHP Warning:  Undefined variable $usuario in /home/clicrdyj/public_html/adminArriendo/include/enter.php on line 24
+[23-Oct-2023 04:01:46 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/include/proceso3.php on line 2
+[23-Oct-2023 04:01:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/include/proceso3.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/include/proceso3.php on line 2
+[23-Oct-2023 04:02:57 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/include/proceso3.php on line 2
+[23-Oct-2023 04:02:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/include/proceso3.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/include/proceso3.php on line 2
+[19-Feb-2024 22:09:47 UTC] PHP Warning:  require_once(./clases/class.coneccion.php): Failed to open stream: No such file or directory in /home/clicrdyj/public_html/adminArriendo/include/enterAdmin.php on line 3
+[19-Feb-2024 22:09:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './clases/class.coneccion.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/clicrdyj/public_html/adminArriendo/include/enterAdmin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/clicrdyj/public_html/adminArriendo/include/enterAdmin.php on line 3

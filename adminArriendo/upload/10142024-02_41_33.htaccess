@@ -1,0 +1,15 @@
+# Habilitar la visualización de errores
+php_flag display_errors On
+php_value error_reporting E_ALL
+
+# Cambiar la configuración de PHP
+php_value upload_max_filesize 10M
+php_value post_max_size 10M
+
+# Redirigir todas las solicitudes .php a un archivo específico
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+)$ script.php?q=$1 [L,QSA]
+
+# Forzar la utilización de PHP 7.4 (si está disponible)
+AddHandler application/x-httpd-php74 .php

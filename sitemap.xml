@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.sampsonpropiedades.cl/</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php?mod=pag&amp;rd=6&amp;m=1&amp;p=6</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php?mod=ventas</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php?mod=arriendo</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php?mod=pag&amp;rd=10&amp;m=1</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php?mod=contacto</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php?mod=pag&amp;rd=9&amp;m=1&amp;p=6</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php?mod=pag&amp;rd=7&amp;m=1&amp;p=7</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php?mod=pag&amp;rd=10&amp;m=1&amp;p=10</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php?mod=det&amp;idProp=21</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php?idProp=21</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php?mod=det&amp;idProp=20</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sampsonpropiedades.cl/index.php?idProp=20</loc>
+  <lastmod>2020-12-18T18:22:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

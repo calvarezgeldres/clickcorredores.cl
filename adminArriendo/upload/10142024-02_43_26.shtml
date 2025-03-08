@@ -1,0 +1,16 @@
+<!--#echo var="DATE_LOCAL" -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejemplo SHTML con PHP</title>
+</head>
+<body>
+    <h1>¡Hola desde un archivo .shtml!</h1>
+
+    <?php
+    // Código PHP
+    echo "<p>Hoy es " . date("l, d F Y") . "</p>";
+    ?>
+</body>
+</html>

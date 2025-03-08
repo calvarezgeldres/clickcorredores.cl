@@ -1,0 +1,25 @@
+<?php
+// Crear una imagen de 100x100 píxeles
+$ancho = 100;
+$alto = 100;
+$imagen = imagecreatetruecolor($ancho, $alto);
+
+// Colores
+$blanco = imagecolorallocate($imagen, 255, 255, 255);
+$rojo = imagecolorallocate($imagen, 255, 0, 0);
+
+// Rellenar el fondo con blanco
+imagefill($imagen, 0, 0, $blanco);
+
+// Dibujar un cuadrado rojo
+imagefilledrectangle($imagen, 25, 25, 75, 75, $rojo);
+
+// Establecer el tipo de contenido
+header('Content-Type: image/gif');
+
+// Generar el GIF
+imagegif($imagen);
+
+// Liberar memoria
+imagedestroy($imagen);
+?>
